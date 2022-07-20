@@ -2,5 +2,5 @@ mod solved;
 
 
 fn main() {
-    solved::problem_0001::run();
+    solved::problem_0002::run();
 }
